@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "ostream": "cpp",
+        "future": "cpp",
+        "system_error": "cpp",
+        "regex": "cpp"
+    }
+}
